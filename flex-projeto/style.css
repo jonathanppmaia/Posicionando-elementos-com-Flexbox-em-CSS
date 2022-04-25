@@ -45,17 +45,11 @@ header .list-items{
     align-items: center;
     font-size: 20px;
     font-weight: 700px; 
-    
- 
-
 }
  
 .list-items li a{
     color: #fff;
     font-weight: 700px;
-  
-   
-      
 }
 
 header .menu{
@@ -149,6 +143,7 @@ header .menu{
   color: white;
   font-size: 38px;
   margin-bottom: 20px;
+  letter-spacing: .2rem;
 }
 
 .list-servicos{

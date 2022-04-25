@@ -39,11 +39,12 @@ header{
 
 header .list-items{
     display: flex;
-    max-width: 350px;
+    max-width: 400px;
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    font-size: 18px;
+    font-size: 20px;
+    font-weight: 700px; 
     
  
 
@@ -58,7 +59,7 @@ header .list-items{
 
 header .menu{
     justify-content: space-between;
-    max-width: 80%;
+    max-width: 90%;
     
 }
 

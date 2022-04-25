@@ -53,13 +53,14 @@ header .list-items{
 .list-items li a{
     color: #fff;
     font-weight: 700px;
+    margin-right: 10px;
    
       
 }
 
 header .menu{
     justify-content: space-between;
-    max-width: 90%;
+    max-width: 60%;
     
 }
 
